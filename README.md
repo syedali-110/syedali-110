@@ -37,41 +37,9 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedali-110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedali-110&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=syedali-110&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 [![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedali-110&theme=tokyo-night&hide_border=true)](https://github.com/syedali-110)
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=syedali-110&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -102,58 +70,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedali-110&theme=tokyonight"/>
 
 </div>
-
----
-
-# 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=syedali-110&theme=tokyonight"/>
-
-</div>
-
-> Remove this section if you don't use WakaTime.
-
----
-
-# ⚡ Contribution Snake
-
-![snake gif](https://github.com/syedali-110/syedali-110/blob/output/github-contribution-grid-snake-dark.svg)
-
-### Snake Not Showing?
-
-Create this file:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: syedali-110
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
