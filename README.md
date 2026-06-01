@@ -67,7 +67,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedali-110&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedali-110&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedali-110&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
