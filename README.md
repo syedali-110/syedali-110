@@ -35,34 +35,6 @@ I am currently doing an internship where I am working on a **School Management A
 
 ![](https://github-profile-trophy.vercel.app/?username=syedali-110&theme=tokyonight&no-frame=true&row=1&column=7)
 
-# .github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: syedali-110
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syedali-110&icon=0&color=0)](https://visitcount.itsvg.in)
