@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Mohd</h1>
 <h3 align="center">Frontend Developer | React Developer | School Management Application Developer</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me
 
@@ -9,6 +8,7 @@
 
 🌱 Learning **Advanced React, Performance Optimization & Backend Integration**
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 💬 Ask me about:
 - React
 - JavaScript
