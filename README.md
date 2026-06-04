@@ -3,12 +3,12 @@
 
 
 # 💫 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🔭 Currently working on a **School Management Application**
 
 🌱 Learning **Advanced React, Performance Optimization & Backend Integration**
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 💬 Ask me about:
 - React
 - JavaScript
