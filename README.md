@@ -3,9 +3,10 @@
 
 
 # 💫 About Me
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🔭 Currently working on a **School Management Application**
+
+<img align="right" alt="coding" width="350" src="https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg">
 
 🌱 Learning **Advanced React, Performance Optimization & Backend Integration**
 
